@@ -1,6 +1,6 @@
 # Selenium Tinder bot
 
-#Dependencies
+# Dependencies
 - Selenium
 - Python
  - Chromedriver
