@@ -1,13 +1,19 @@
-to run:
- - download chromedriver, unzip, move to `/usr/local/bin` (mac os / linux)
+# Selenium Tinder bot
+
+#Dependencies
+- Selenium
+- Python
+ - Chromedriver
+
+# Executables
+ -  download chromedriver, unzip, move to `/usr/local/bin` (mac os / linux)
  - `pip install selenium`
 
-create a secrets.py file with variables:
+
+# How To:
+
+Secrets.py
 ``` 
- username = 'your_username'
- password = 'your_password'
+ username = '<sample_user>'
+ password = '<sample_pass>'
 ```
-
-please add more features to this, would be awesome to see what you can come up w
-
-cheers
